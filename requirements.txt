@@ -1,0 +1,7 @@
+streamlit>=1.42
+langchain>=1.0
+langgraph
+langchain-google-genai
+langchain-tavily
+python-dotenv
+requests
